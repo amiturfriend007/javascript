@@ -1,0 +1,16 @@
+<html>
+<body>
+<script>  
+var x = 10;  
+var y = 20;  
+var z = x + y;  
+document.write(z); 
+/*
+var  123=30;  
+var *aa=320;
+
+*/
+
+</script>  
+</body>
+</html>
